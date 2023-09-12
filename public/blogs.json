@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "name": "Getting Started with React",
+      "cover_img": "https://i.ibb.co/s20yTrD/2.png",
+      "author": "Maria Hil",
+      "author_img": "https://i.ibb.co/4S8ZyJL/girl2.jpg",
+      "posted_date": "2023-09-12",
+      "reading_time": 10,
+      "title": "How to get your first job as a self-taught programmer(1)",
+      "hashtags": ["React", "JavaScript", "Frontend"]
+    },
+    {
+      "id": 2,
+      "name": "Node.js Fundamentals",
+      "cover_img": "https://i.ibb.co/qFQMDqX/3.png",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/kyKPP1x/boy1.png",
+      "posted_date": "2023-09-10",
+      "reading_time": 8,
+      "title": "How to get your first job as a self-taught programmer(2)",
+      "hashtags": ["Node.js", "JavaScript", "Backend"]
+    },
+    {
+      "id": 3,
+      "name": "Web Development Best Practices",
+      "cover_img": "https://i.ibb.co/J30YZjD/4.jpg",
+      "author": "Alex Johnson",
+      "author_img": "https://i.ibb.co/dfKrDbn/boy2.jpg",
+      "posted_date": "2023-09-08",
+      "reading_time": 12,
+      "title": "How to get your first job as a self-taught programmer(3)",
+      "hashtags": ["WebDev", "Frontend", "Backend"]
+    },
+    {
+      "id": 4,
+      "name": "Python Programming Basics",
+      "cover_img": "https://i.ibb.co/1vn9kHc/1.jpg",
+      "author": "Emily Rogers",
+      "author_img": "https://i.ibb.co/H2gSNQy/girl1.jpg",
+      "posted_date": "2023-09-06",
+      "reading_time": 9,
+      "title": "How to get your first job as a self-taught programmer(4)",
+      "hashtags": ["Python", "Programming", "Beginners"]
+    }
+  ]
+  
