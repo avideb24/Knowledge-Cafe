@@ -45,7 +45,7 @@ function App() {
       <div className='max-w-screen-xl mx-auto '>
         <Header></Header>
         <div className='flex gap-8'>
-        {/* blogs */}
+        
           <Blogs handleBookmarks={handleBookmarks} handleReadTime={handleReadTime}></Blogs>
           <ToastContainer />
           <Bookmarks bookmarks={bookmarks} readTime={readTime}></Bookmarks>
